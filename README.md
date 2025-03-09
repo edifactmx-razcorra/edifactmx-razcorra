@@ -12,7 +12,9 @@ Soy un desarrollador de software en **EdiFactMx**, con experiencia en **Java, PH
 - **Servicios Web:** SOAP, REST
 - **Herramientas:** NetBeans ,Docker, Sublime Text, Visual Studio Code
 - **Servidores:** Windows, Linux
-- **Servidor App:** Tomcat, Glassfish, JBoss 
+- **Servidor App:** Tomcat, Glassfish, JBoss
+- **Versionamiento:** Git, Subversion
+- **Plataforma de alojamiento:** GitHub
 
 ---
 
