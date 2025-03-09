@@ -8,7 +8,7 @@ Soy un desarrollador de software en **EdiFactMx**, con experiencia en **Java, PH
 
 - **Lenguajes:** Java, PHP, C#, C++
 - **Frameworks:** Spring Boot, CakePHP, .NET
-- **Bases de Datos:** SQL Server, MySQL, PostgreSQL, FireBird
+- **Bases de Datos:** SQL Server, MySQL, PostgreSQL, FireBird, Oracle
 - **Servicios Web:** SOAP, REST
 - **Herramientas:** NetBeans ,Docker, Sublime Text, Visual Studio Code
 - **Servidores:** Windows, Linux
